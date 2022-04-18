@@ -129,8 +129,6 @@ dmypy.json
 .pyre/
 
 # Ignoring all other files
-ratings.csv
-movies_metadata.csv
 Untitled.ipynb
 Untitled1.ipynb
 test_file.ipynb
